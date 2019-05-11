@@ -1,5 +1,6 @@
 package aaa;
 
 public class bbb {
-int ppslPPP2IIO;
+int ppslPPP2IIOKK;
+int ll;
 }
