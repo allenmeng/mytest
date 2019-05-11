@@ -2,5 +2,5 @@ package aaa;
 
 public class bbb {
 int ppslPPP23IIOKK;
-int ljjjjlssdooo123;
+int ljjjjlssdooo6578;
 }
