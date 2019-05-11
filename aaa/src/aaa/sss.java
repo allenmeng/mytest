@@ -1,6 +1,6 @@
 package aaa;
 
 public class sss {
-int s;
+int sp;
   int k;
 }
