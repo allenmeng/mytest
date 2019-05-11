@@ -4,5 +4,5 @@ public class sss {
 int sdp;
 int sjskkkkk;
 
-int sjshhhh;
+int sjshhhhoooo;
 }
