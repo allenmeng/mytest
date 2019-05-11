@@ -5,6 +5,6 @@ int sdp;
 <<<<<<< HEAD
   int uuuiisi;
 =======
-  int uyyyuus;
+  int uyyyuusoooooj;
 >>>>>>> branch 'master' of https://github.com/allenmeng/mytest.git
 }
