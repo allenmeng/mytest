@@ -1,5 +1,5 @@
 package aaa;
 
 public class bbb {
-int sl;
+int ppsl;
 }
